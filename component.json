@@ -1,0 +1,16 @@
+{
+  "name": "wgs84",
+  "repo": "mapbox/wgs84",
+  "version": "0.0.0",
+  "description": "constants from the standard reference ellipsoid",
+  "scripts": [
+    "index.js"
+  ],
+  "keywords": [
+    "wgs84",
+    "reference",
+    "ellipsoid",
+    "geodesy"
+  ],
+  "license": "BSD-2-Clause"
+}
